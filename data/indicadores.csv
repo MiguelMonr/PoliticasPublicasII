@@ -1,0 +1,125 @@
+year,indicator,high_wellbeing,medium_wellbeing,low_wellbeing
+2020,Happiness,34173,23507,9625
+2021,Happiness,50942,35186,14593
+2022,Happiness,46140,32690,12853
+2023,Happiness,52169,37728,14047
+2024,Happiness,53957,36702,12192
+2020,Optimism,28761,25292,12197
+2021,Optimism,42690,39451,18672
+2022,Optimism,39336,35742,16623
+2023,Optimism,43824,41221,18931
+2024,Optimism,45406,40762,16602
+2020,Satisfaction with life,25138,25409,15608
+2021,Satisfaction with life,38291,38833,23496
+2022,Satisfaction with life,35999,34937,20558
+2023,Satisfaction with life,40958,39967,22823
+2024,Satisfaction with life,42764,39371,20397
+2020,Emotion regulation,22794,26402,16807
+2021,Emotion regulation,33832,39952,26477
+2022,Emotion regulation,31443,36493,23469
+2023,Emotion regulation,35094,41887,26629
+2024,Emotion regulation,36045,41676,24642
+2020,Sadness,31778,22503,12461
+2021,Sadness,47988,33648,18090
+2022,Sadness,42986,31605,16202
+2023,Sadness,48523,36075,18133
+2024,Sadness,49791,35339,16557
+2020,Worries,24462,23931,18252
+2021,Worries,36950,34820,27810
+2022,Worries,33415,32187,24880
+2023,Worries,37807,36753,27931
+2024,Worries,39209,36337,25949
+2020,Distress~,9685,3476,1207
+2021,Distress~,15661,6508,2426
+2022,Distress~,15328,6061,2117
+2023,Distress~,18406,6607,2253
+2024,Distress~,18787,6235,1981
+2020,Resilience~,1542,7871,4955
+2021,Resilience~,2246,13074,9374
+2022,Resilience~,2091,13001,8484
+2023,Resilience~,2476,15530,9397
+2024,Resilience~,2448,15668,8966
+2023,Feelings about the future~,13555,8494,3693
+2024,Feelings about the future~,13678,8621,3545
+2020,Feelings about after school study/work~,5495,5384,3031
+2021,Feelings about after school study/work~,8741,9453,5459
+2022,Feelings about after school study/work~,8765,8899,4922
+2023,Feelings about after school study/work~,9990,10229,5498
+2024,Feelings about after school study/work~,10430,10142,5252
+2020,Overall health,18636,31010,14928
+2021,Overall health,27753,44358,20757
+2022,Overall health,25416,42019,19638
+2023,Overall health,27996,47049,22029
+2024,Overall health,28553,47688,20861
+2020,Feelings about your body~,5118,3993,4521
+2021,Feelings about your body~,8940,6895,7637
+2022,Feelings about your body~,8406,6772,7285
+2023,Feelings about your body~,9815,8148,7551
+2024,Feelings about your body~,10338,8084,7251
+2020,Nutrition - breakfast,44005,6546,14820
+2021,Nutrition - breakfast,60906,11694,24843
+2022,Nutrition - breakfast,56232,9615,22883
+2023,Nutrition - breakfast,62556,11134,25989
+2024,Nutrition - breakfast,61768,11403,26170
+2020,Sleep,35259,14045,15048
+2021,Sleep,46028,25298,24864
+2022,Sleep,46517,19904,21540
+2023,Sleep,52578,22597,23656
+2024,Sleep,53802,22685,22139
+2020,Music and arts,29569,11107,23565
+2021,Music and arts,42520,16096,35912
+2022,Music and arts,38835,14046,34511
+2023,Music and arts,43491,15576,38611
+2024,Music and arts,43761,15719,38402
+2020,Sports,32390,10609,20840
+2021,Sports,47348,16505,30457
+2022,Sports,43327,15211,29224
+2023,Sports,51439,15909,31027
+2024,Sports,52217,15789,30433
+2020,Organised activities,49832,6989,9437
+2021,Organised activities,72795,9887,13486
+2022,Organised activities,66529,8995,12697
+2023,Organised activities,76140,9442,13378
+2024,Organised activities,76718,9315,12911
+2023,Feelings about the future,13555,8494,3693
+2024,Feelings about the future,13678,8621,3545
+2020,Feelings about after school study/work,5495,5384,3031
+2021,Feelings about after school study/work,8741,9453,5459
+2022,Feelings about after school study/work,8765,8899,4922
+2023,Feelings about after school study/work,9990,10229,5498
+2024,Feelings about after school study/work,10430,10142,5252
+2020,Overall health,18636,31010,14928
+2021,Overall health,27753,44358,20757
+2022,Overall health,25416,42019,19638
+2023,Overall health,27996,47049,22029
+2024,Overall health,28553,47688,20861
+2020,Feelings about your body,5118,3993,4521
+2021,Feelings about your body,8940,6895,7637
+2022,Feelings about your body,8406,6772,7285
+2023,Feelings about your body,9815,8148,7551
+2024,Feelings about your body,10338,8084,7251
+2020,Nutrition - breakfast,44005,6546,14820
+2021,Nutrition - breakfast,60906,11694,24843
+2022,Nutrition - breakfast,56232,9615,22883
+2023,Nutrition - breakfast,62556,11134,25989
+2024,Nutrition - breakfast,61768,11403,26170
+2020,Sleep,35259,14045,15048
+2021,Sleep,46028,25298,24864
+2022,Sleep,46517,19904,21540
+2023,Sleep,52578,22597,23656
+2024,Sleep,53802,22685,22139
+2020,Music and arts,29569,11107,23565
+2021,Music and arts,42520,16096,35912
+2022,Music and arts,38835,14046,34511
+2023,Music and arts,43491,15576,38611
+2024,Music and arts,43761,15719,38402
+2020,Sports,32390,10609,20840
+2021,Sports,47348,16505,30457
+2022,Sports,43327,15211,29224
+2023,Sports,51439,15909,31027
+2024,Sports,52217,15789,30433
+2020,Organised activities,49832,6989,9437
+2021,Organised activities,72795,9887,13486
+2022,Organised activities,66529,8995,12697
+2023,Organised activities,76140,9442,13378
+2024,Organised activities,76718,9315,12911
